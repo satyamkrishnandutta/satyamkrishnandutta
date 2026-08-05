@@ -3,7 +3,7 @@
     <tr>
       <td valign="top">
         <!-- Replace this with your actual image file name -->
-        <img src="./ascii-art.png" width="480" />
+        <img src="./ascii-art.png" width="550" />
       </td>
       <td valign="top">
 
