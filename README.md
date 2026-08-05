@@ -19,6 +19,7 @@ Language.Real: ..................................... Hindi, English
 
 Hardware.Stack: ..................... ESP32, Arduino, Discrete ICs
 Current.Focus: .................. Adv. Computer Architecture, HDLs
+
 Affiliation: .................................. Innoreva (IoT Club)
 Hobbies.Technical: ........................ Competitive Programming
 Hobbies.Recreation: ................................. Chess, Gaming
