@@ -9,23 +9,21 @@
 
 ```yaml
 satyam@github -----------------------------------------------------
-OS: ................................ Windows 11, Linux (Lenovo LOQ)
+OS: ....................................... Windows 11, Linux (LOQ)
 Uptime: .................................... 19 years, 3rd semester
 Host: ........................................ NIT Jamshedpur (ECE)
 Kernel: ......................... Embedded Systems & Hardware Logic
-IDE: .......................... VSCode, Arduino IDE, Vivado/Quartus
+IDE: .................................. VSCode, Arduino IDE, Vivado
 Language.Programming: ........................ C++, Python, Verilog
 Language.Real: ..................................... Hindi, English
 
 Hardware.Stack: ..................... ESP32, Arduino, Discrete ICs
-Hardware.Peripherals: ............. DHT11, RTCs, OLEDs, Vero Boards
 
-Recent.Builds: ......... 8x8 LED Snake Game, ESP32 Smartwatch Proto
 Current.Focus: .................. Adv. Computer Architecture, HDLs
 
-Affiliation: ....................... Innoreva (Robotics & IoT Club)
-Hobbies.Technical: ................. Home Labs, Circuit Tinkering
-Hobbies.Recreation: ................ Stage Dramatics, Chess, Gaming
+Affiliation: .................................. Innoreva (IoT Club)
+Hobbies.Technical: ........................ Competitive Programming
+Hobbies.Recreation: ................................. Chess, Gaming
 
-Contact.Email: .................................. [Your Email Here]
-Contact.LinkedIn: ............................ [Your LinkedIn Here]
+Contact.Email: ...................... satyamkrishnandutta@gmail.com
+Contact.LinkedIn: .................................... Satyam Dutta
