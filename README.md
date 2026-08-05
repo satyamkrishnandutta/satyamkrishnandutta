@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <!-- Replace this with your actual image file name -->
+        <img src="./ascii-art.png" width="400" />
+      </td>
+      <td valign="top">
 
-<!--
-**satyamkrishnandutta/satyamkrishnandutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+satyam@github -----------------------------------------------------
+OS: ................................ Windows 11, Linux (Lenovo LOQ)
+Uptime: .................................... 19 years, 3rd semester
+Host: ........................................ NIT Jamshedpur (ECE)
+Kernel: ......................... Embedded Systems & Hardware Logic
+IDE: .......................... VSCode, Arduino IDE, Vivado/Quartus
+Language.Programming: ........................ C++, Python, Verilog
+Language.Real: ..................................... Hindi, English
 
-Here are some ideas to get you started:
+Hardware.Stack: ..................... ESP32, Arduino, Discrete ICs
+Hardware.Peripherals: ............. DHT11, RTCs, OLEDs, Vero Boards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent.Builds: ......... 8x8 LED Snake Game, ESP32 Smartwatch Proto
+Current.Focus: .................. Adv. Computer Architecture, HDLs
+
+Affiliation: ....................... Innoreva (Robotics & IoT Club)
+Hobbies.Technical: ................. Home Labs, Circuit Tinkering
+Hobbies.Recreation: ................ Stage Dramatics, Chess, Gaming
+
+Contact.Email: .................................. [Your Email Here]
+Contact.LinkedIn: ............................ [Your LinkedIn Here]
